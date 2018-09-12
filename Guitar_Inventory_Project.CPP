@@ -1,6 +1,6 @@
 /*
 GUITARSTORE DATABSE MANAGEMENT SYSTEM
-A projectby Shivangi Roy Class :- XII-Sc-B
+A projectby Shivangi Roy 
 */
 
 #include <iostream.h>
